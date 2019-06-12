@@ -17,5 +17,5 @@ The project entailed gathering data from a variety of file types and via numerou
 ## Outputs
 
 Two reports in pdf formates:
-1. Wrangling report that lists the aformentioned data wrangling workflow in detail.
-2. Act report that summarizes the finding of the analysis.
+1. [Wrangling report](./Wrangling_Report.pdf) that lists the aformentioned data wrangling workflow in detail.
+2. [Act report](./Act_report.pdf) that summarizes the findings of the analysis.
