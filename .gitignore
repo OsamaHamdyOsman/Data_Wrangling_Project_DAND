@@ -4,4 +4,5 @@ plots/*
 tweet_json.txt
 twitter-archive-enhanced.csv
 twitter_archive_master.csv
+.ipynb_checkpoints/*
 
